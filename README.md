@@ -1,6 +1,6 @@
 # Proyecto: Modelo - Vista - Controlador
 
-Plantilla básica para proyecto de Java con MVC
+Elaborar un Proyecto en Java con MVC que implemente una aplicación en ambiente Windows para actualizar y consultar el catálogo definido previamente.
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
